@@ -2,7 +2,8 @@
 <TestCaseEntity>
    <description></description>
    <name>TC3_Visual Testing Example</name>
-   <tag></tag>
+   <tag>tag 43</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>cc5f74b3-2793-4455-9f24-945196488d0a</testCaseGuid>
 </TestCaseEntity>
